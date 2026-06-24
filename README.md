@@ -72,15 +72,18 @@ python audio_guidance.py
 
 ### Object Detection Result
 
-(Add detection screenshot here)
+<img width="384" height="351" alt="Picture1" src="https://github.com/user-attachments/assets/e0c5d49c-52c1-4c3d-af53-05f8e18e32c7" />
+
 
 ### System Execution
 
-(Add terminal execution screenshot here)
+<img width="1080" height="795" alt="Picture2" src="https://github.com/user-attachments/assets/ea67a988-ceb3-4d94-ab11-33f484ae81b7" />
+
 
 ### Live Environment Detection
 
-(Add classroom/live testing screenshot here)
+<img width="1036" height="684" alt="Picture3" src="https://github.com/user-attachments/assets/8539effc-f472-4531-bae2-a01023885714" />
+
 
 ---
 
