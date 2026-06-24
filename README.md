@@ -19,11 +19,11 @@ The system combines:
 
 ## Features
 
-✔ Real-time object detection
-✔ Audio assistance for navigation
-✔ Camera-based environment awareness
-✔ Obstacle identification
-✔ Efficient detection pipeline
+- Real-time object detection
+- Audio assistance for navigation
+- Camera-based environment awareness
+- Obstacle identification
+- Efficient detection pipeline
 
 ---
 
