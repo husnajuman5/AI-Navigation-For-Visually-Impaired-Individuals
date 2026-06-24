@@ -1,1 +1,0 @@
-# AI-Navigation-For-Visually-Impaired-Individuals
