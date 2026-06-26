@@ -1,4 +1,4 @@
-# AI Navigation for Visually Impaired Individuals
+# AI-Powered Navigation Assistant for Visually Impaired Individuals
 
 An AI-powered navigation assistance system designed to support visually impaired individuals through real-time object detection and audio guidance using YOLOv5.
 
